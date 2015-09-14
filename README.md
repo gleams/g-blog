@@ -10,4 +10,4 @@
 * 《Node.js》
 
 技术博客参考：
-[N-blog]:https://github.com/nswbmw/N-blog
+[N-blog](https://github.com/nswbmw/N-blog)
