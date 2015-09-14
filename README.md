@@ -10,4 +10,9 @@
 * 《Node.js》
 
 技术博客参考：
-[N-blog](https://github.com/nswbmw/N-blog)
+
+* [bootstrap中文](http://bootcss.com/)
+* [N-blog](https://github.com/nswbmw/N-blog)
+* [express 中文帮助](http://www.expressjs.com.cn/)
+* [nodejs中文](http://nodeapi.ucdok.com/#/api/)
+
