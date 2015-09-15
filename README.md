@@ -9,7 +9,7 @@
 学习的过程主要参考以下内容：
 * 《Node.js开发指南》
 * 《Node Web开发》
-* 《mongodb权威指南》
+* 《MongoDB权威指南》
 
 技术博客参考：
 
@@ -18,4 +18,9 @@
 * [express 中文帮助](http://www.expressjs.com.cn/)
 * [nodejs中文](http://nodeapi.ucdok.com/#/api/)
 * [markdown语法参考](http://www.appinn.com/markdown/)
+
+学习环境推荐：开发IDE：webstrom，浏览器：Chrome
+
+### 学习目录
+- 如何使用BootStrap
 
